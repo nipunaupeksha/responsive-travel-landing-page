@@ -4,4 +4,3 @@ Beautiful Responsive Landing Page Islands Travel 🏝️ Using Html, Css and Jav
 Don't forget to join the channel for more videos like this. 
 
 ![Landing Page Travel](/preview.png)
-# responsive-travel-landing-page
